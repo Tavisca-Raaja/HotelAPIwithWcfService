@@ -1,0 +1,26 @@
+[
+  {
+    "HotelId": 120,
+    "Aminities": "Wi-Fi,Laundry,Bar,Restaurant",
+    "Parking": "Free-parking",
+    "BreakFast": "Free BreakFast",
+    "CancellationPolicy": "Not Refundable",
+    "HotelImageUrl": "hotels.jpg"
+  },
+  {
+    "HotelId": 121,
+    "Aminities": "Wi-Fi,Laundry,Bar,Restaurant,Swimming Pool,spa",
+    "Parking": "Free-parking",
+    "BreakFast": "Free BreakFast",
+    "CancellationPolicy": "Not Refundable",
+    "HotelImageUrl": "hotels.jpg"
+  },
+  {
+    "HotelId": 122,
+    "Aminities": "Wi-Fi,Laundry,Bar,Restaurant,",
+    "Parking": "Free-parking",
+    "BreakFast": "Free BreakFast",
+    "CancellationPolicy": "Not Refundable",
+    "HotelImageUrl": "hotels.jpg"
+  }
+]

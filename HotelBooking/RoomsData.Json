@@ -1,0 +1,37 @@
+[
+    {
+     "HotelId":120,
+     "RoomType":"Suite",
+     "SquareFeet":250,
+     "Bed":"1 Queen Bed",
+     "Aminities":"A/C,Coffee Maker,40-inch Tv,24Hrs room service",
+     "offers":"25% cashback on Online Booking"
+    },
+    {
+     "HotelId":120,
+     "RoomType":"Double",
+     "SquareFeet":350,
+     "Bed":"1 Queen Bed",
+     "Aminities":"A/C,Coffee Maker,40-inch Tv,24Hrs room service",
+     "offers":"25% cashback on Online Booking"
+    },
+    
+    {
+    "HotelId":121,
+     "RoomType":"Suite",
+     "SquareFeet":250,
+     "Bed":"1 Queen Bed",
+     "Aminities":"A/C,Coffee Maker,40-inch Tv,24Hrs room service",
+     "offers":"10% cashback on Online Booking"
+    
+    },
+    {
+    "HotelId":121,
+     "RoomType":"Double",
+     "SquareFeet":250,
+     "Bed":"1 Queen Bed",
+     "Aminities":"A/C,Coffee Maker,40-inch Tv,24Hrs room service",
+     "offers":"25% cashback on Online Booking"
+    
+    }
+]
