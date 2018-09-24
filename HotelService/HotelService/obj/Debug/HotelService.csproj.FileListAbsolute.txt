@@ -1,0 +1,16 @@
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\HotelService.dll.config
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\HotelService.dll
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\HotelService.pdb
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\Cassandra.dll
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\LZ4.dll
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\Microsoft.Extensions.Logging.dll
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\Cassandra.xml
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\Microsoft.Extensions.Logging.xml
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\obj\Debug\HotelService.csproj.CoreCompileInputs.cache
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\obj\Debug\HotelService.dll
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\obj\Debug\HotelService.pdb
+C:\Users\rgouthaman\source\repos\HotelService\HotelService\obj\Debug\HotelService.csprojResolveAssemblyReference.cache
